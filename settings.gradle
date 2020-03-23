@@ -1,0 +1,2 @@
+include ':app', ':lib_anno_permission', ':lib_compiler_permission', ':lib_utils', ':lib_permission'
+rootProject.name='PermissionApt'
